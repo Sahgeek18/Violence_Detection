@@ -50,6 +50,3 @@ The project aims to explore the integration of an attention mechanism (novelty2.
 
 By leveraging advanced techniques such as aria2 for data access and the CNN-BiLSTM architecture for modeling, this project demonstrates strong technical proficiency and achievement in developing robust surveillance solutions. The achieved 97% accuracy in violence detection underscores the effectiveness of the proposed approach in enhancing security and safety through automated surveillance systems.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, or distribute it as per the terms of the license.
